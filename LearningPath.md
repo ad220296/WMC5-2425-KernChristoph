@@ -1,6 +1,6 @@
 # Learning Path - WMC5
 
-n diesem Repository dokumentiere ich meinen Fortschritt im WMC5-Learning Path. Die Aufgaben umfassen JavaScript, 
+In diesem Repository dokumentiere ich meinen Fortschritt im WMC. Die Aufgaben umfassen JavaScript, 
 HTTP Networking und Webentwicklung mit Node.js und Express. Ziel ist es, meine Kenntnisse durch praktische Übungen und Beispiele zu vertiefen.
 
 1. Finish either the JavaScript Course on Codecademy or the one from freeCodeCamp
