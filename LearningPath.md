@@ -1,8 +1,7 @@
 # Learning Path - WMC5
 
-Create a WMC repository for your exercises. Name it "WMC5-2425-YourLastnameYourFirstName".
-To keep track of your work, copy this file (LearningPath.md) into your repo and record your progress in the tables below.
-Document your progress by creating summaries and programming the examples. Push this documentation to your GitHub repo to verify the work you've completed.
+n diesem Repository dokumentiere ich meinen Fortschritt im WMC5-Learning Path. Die Aufgaben umfassen JavaScript, 
+HTTP Networking und Webentwicklung mit Node.js und Express. Ziel ist es, meine Kenntnisse durch praktische Übungen und Beispiele zu vertiefen.
 
 1. Finish either the JavaScript Course on Codecademy or the one from freeCodeCamp
 
