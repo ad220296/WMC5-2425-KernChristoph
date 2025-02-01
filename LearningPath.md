@@ -12,10 +12,10 @@ HTTP Networking und Webentwicklung mit Node.js und Express. Ziel ist es, meine K
 
 2. HTTP Networking - Work through the following topics
 
-   | Task      | Duration| Progress (time or %) | Completed |
-   |-----------|-----------|-----------|-----------|
-   | [Article: What is HTTP](https://www.freecodecamp.org/news/what-is-http/) |    1h      | 0 % or "h min"       |yes/no       |
-   | [Full HTTP Networking Course – Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4)|   5h 9min       | 0 % or "h min"       |yes/no       |
+   | Task      | Duration| Progress (time or %) |Confirmation | Completed |
+   |-----------|-----------|-----------|-----------|-----------|
+   | [Article: What is HTTP](https://www.freecodecamp.org/news/what-is-http/) |    1h      | 0 % or "h min"    |      |yes/no       |
+   | [Full HTTP Networking Course – Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4)|   5h 9min       | 0 % or "h min"    |  ![Codecademy](https://github.com/ad220296/WMC5-2425-KernChristoph/blob/main/Java-Script%20Kurs%20Best%C3%A4tigung4.png)      |yes/no       |
 
 3. Watch the following videos about basic JavaScript techniques for web development
 
