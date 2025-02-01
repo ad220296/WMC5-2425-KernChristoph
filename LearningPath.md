@@ -18,8 +18,3 @@ HTTP Networking und Webentwicklung mit Node.js und Express. Ziel ist es, meine K
    | [Full HTTP Networking Course – Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4)|   5h 9min       |5h 9min    |  ![Codecademy](https://github.com/ad220296/WMC5-2425-KernChristoph/blob/main/Java-Script%20Kurs%20Best%C3%A4tigung5.png)      |yes      |
 
 
-   | [Node.js and Express.js - Full Course](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE) |    8h 17min      | 0 % or "h min"       |yes/no       |
-
-## Optional Additional Sources
-
-- [Learn JavaScript DOM Manipulation – Tutorial for Beginners](https://www.youtube.com/watch?v=IWRS_AM2fiE)
