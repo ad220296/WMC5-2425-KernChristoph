@@ -7,8 +7,8 @@ HTTP Networking und Webentwicklung mit Node.js und Express. Ziel ist es, meine K
 
    | Task      | Duration| Progress (time or %) | Completed |
    |-----------|-----------|-----------|-----------|
-   | [Codecademy - Introdcution to javaScript](https://www.codecademy.com/learn/introduction-to-javascript)|   15h       | 100 %        |yes     |
-   | [freeCodeCamp - Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)|   3h 27 min       | 0 % or "h min"       |yes/no       |
+   | [Codecademy - Introdcution to javaScript](https://www.codecademy.com/learn/introduction-to-javascript)|  ![Codecademy](URL_ZUM_BILD) |  15h       | 100 %        |yes     |
+   | [freeCodeCamp - Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)|   ![Codecademy](URL_ZUM_BILD) | 3h 27 min       | 0 % or "h min"       |yes/no       |
 
 2. HTTP Networking - Work through the following topics
 
